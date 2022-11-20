@@ -1,0 +1,981 @@
+Archive member included because of file (symbol)
+
+f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+                              ./MCAL/TIMER0/TIMER0_prg.o (__mulsi3)
+f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodqi4.o)
+                              ./MCAL/DIO/DIO_Prog.o (__udivmodqi4)
+f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+                              ./MCAL/TIMER0/TIMER0_prg.o (__divmodhi4)
+f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+                              ./HAL/LCD/LCD_prg.o (__divmodsi4)
+f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                              f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o (exit)
+f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                              ./MCAL/TIMER0/TIMER0_prg.o (__do_copy_data)
+f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                              ./MCAL/TIMER1/TIMER1_prg.o (__do_clear_bss)
+f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                              ./MCAL/UART/UART_Prog.o (__fixunssfsi)
+f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                              f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o) (__subsf3)
+f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                              ./MCAL/UART/UART_Prog.o (__mulsf3)
+f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+                              ./MCAL/TIMER0/TIMER0_prg.o (__divsf3)
+f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+                              ./MCAL/UART/UART_Prog.o (__gtsf2)
+f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                              f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o) (__gesf2)
+f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+                              ./MCAL/UART/UART_Prog.o (__ltsf2)
+f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                              f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o) (__fixsfsi)
+f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+                              f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__thenan_sf)
+f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+                              ./MCAL/TIMER0/TIMER0_prg.o (__floatunsisf)
+f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+                              f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o) (__udivmodhi4)
+f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+                              f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o) (__udivmodsi4)
+f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+                              f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__prologue_saves__)
+f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+                              f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__epilogue_restores__)
+f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+                              f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o) (__clzsi2)
+f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                              f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__pack_f)
+f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                              f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__unpack_f)
+f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                              f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o) (__fpcmp_parts_f)
+f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+                              f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o) (__clz_tab)
+f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ceil.o)
+                              ./HAL/Ultrasonic/Ultrasonic_Prog.o (ceil)
+f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_mintl.o)
+                              f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ceil.o) (__fp_mintl)
+f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_mpack.o)
+                              f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ceil.o) (__fp_mpack)
+f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_trunc.o)
+                              f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ceil.o) (__fp_trunc)
+f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_zero.o)
+                              f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ceil.o) (__fp_szero)
+f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_split3.o)
+                              f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_trunc.o) (__fp_splitA)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+LOAD ./MCAL/UART/UART_Prog.o
+LOAD ./MCAL/TIMER1/TIMER1_prg.o
+LOAD ./MCAL/TIMER0/TIMER0_prg.o
+LOAD ./MCAL/GIE/GIE_prg.o
+LOAD ./MCAL/EXTI/EXTI_prg.o
+LOAD ./MCAL/DIO/DIO_Prog.o
+LOAD ./MCAL/ADC/ADC_prg.o
+LOAD ./HAL/Ultrasonic/Ultrasonic_Prog.o
+LOAD ./HAL/RELAY/RELAY_Prog.o
+LOAD ./HAL/LED/LED_Prog.o
+LOAD ./HAL/LCD/LCD_prg.o
+LOAD ./HAL/BLUETOOTH/BLUETOOTH_PROG.o
+LOAD ./APP/main.o
+LOAD f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+LOAD f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a
+LOAD f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x3bb0
+ *(.vectors)
+ .vectors       0x00000000       0x54 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.progmem*)
+                0x00000054                . = ALIGN (0x2)
+                0x00000054                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000054        0x0 linker stubs
+ *(.trampolines*)
+                0x00000054                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000054                __ctors_start = .
+ *(.ctors)
+                0x00000054                __ctors_end = .
+                0x00000054                __dtors_start = .
+ *(.dtors)
+                0x00000054                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000054        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x00000054                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000054        0xc f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000060       0x16 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                0x00000060                __do_copy_data
+ .init4         0x00000076       0x10 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                0x00000076                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000086        0x8 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ *(.init9)
+ *(.text)
+ .text          0x0000008e        0x4 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x0000008e                __vector_12
+                0x0000008e                __bad_interrupt
+                0x0000008e                __vector_13
+                0x0000008e                __vector_17
+                0x0000008e                __vector_19
+                0x0000008e                __vector_7
+                0x0000008e                __vector_5
+                0x0000008e                __vector_4
+                0x0000008e                __vector_9
+                0x0000008e                __vector_15
+                0x0000008e                __vector_8
+                0x0000008e                __vector_14
+                0x0000008e                __vector_16
+                0x0000008e                __vector_18
+                0x0000008e                __vector_20
+ .text          0x00000092        0x0 ./MCAL/UART/UART_Prog.o
+ .text          0x00000092        0x0 ./MCAL/TIMER1/TIMER1_prg.o
+ .text          0x00000092        0x0 ./MCAL/TIMER0/TIMER0_prg.o
+ .text          0x00000092        0x0 ./MCAL/GIE/GIE_prg.o
+ .text          0x00000092        0x0 ./MCAL/EXTI/EXTI_prg.o
+ .text          0x00000092        0x0 ./MCAL/DIO/DIO_Prog.o
+ .text          0x00000092        0x0 ./MCAL/ADC/ADC_prg.o
+ .text          0x00000092        0x0 ./HAL/Ultrasonic/Ultrasonic_Prog.o
+ .text          0x00000092        0x0 ./HAL/RELAY/RELAY_Prog.o
+ .text          0x00000092        0x0 ./HAL/LED/LED_Prog.o
+ .text          0x00000092        0x0 ./HAL/LCD/LCD_prg.o
+ .text          0x00000092        0x0 ./HAL/BLUETOOTH/BLUETOOTH_PROG.o
+ .text          0x00000092        0x0 ./APP/main.o
+ .text          0x00000092        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+ .text          0x00000092        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodqi4.o)
+ .text          0x00000092        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+ .text          0x00000092        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+ .text          0x00000092        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text          0x00000092        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000092        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000092       0x58 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                0x00000092                __fixunssfsi
+ .text          0x000000ea      0x354 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                0x00000382                __subsf3
+                0x000003e4                __addsf3
+ .text          0x0000043e      0x1f4 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                0x0000043e                __mulsf3
+ .text          0x00000632      0x158 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+                0x00000632                __divsf3
+ .text          0x0000078a       0x60 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+                0x0000078a                __gtsf2
+ .text          0x000007ea       0x60 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                0x000007ea                __gesf2
+ .text          0x0000084a       0x60 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+                0x0000084a                __ltsf2
+ .text          0x000008aa       0xa8 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                0x000008aa                __fixsfsi
+ .text          0x00000952        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .text          0x00000952       0xf2 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+                0x00000952                __floatunsisf
+ .text          0x00000a44        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .text          0x00000a44        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x00000a44        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .text          0x00000a44        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .text          0x00000a44       0x9e f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+                0x00000a44                __clzsi2
+ .text          0x00000ae2      0x1aa f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                0x00000ae2                __pack_f
+ .text          0x00000c8c       0xf0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                0x00000c8c                __unpack_f
+ .text          0x00000d7c       0xb2 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                0x00000d7c                __fpcmp_parts_f
+ .text          0x00000e2e        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+ .text          0x00000e2e        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ceil.o)
+ .text          0x00000e2e        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_mintl.o)
+ .text          0x00000e2e        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_mpack.o)
+ .text          0x00000e2e        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_trunc.o)
+ .text          0x00000e2e        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_zero.o)
+ .text          0x00000e2e        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_split3.o)
+                0x00000e2e                . = ALIGN (0x2)
+ *(.text.*)
+ .text.M_UART_Void_UARTInit
+                0x00000e2e       0x7a ./MCAL/UART/UART_Prog.o
+                0x00000e2e                M_UART_Void_UARTInit
+ .text.M_UART_Void_UARTWrite
+                0x00000ea8       0x7a ./MCAL/UART/UART_Prog.o
+                0x00000ea8                M_UART_Void_UARTWrite
+ .text.M_UART_u8_UARTRead
+                0x00000f22       0x72 ./MCAL/UART/UART_Prog.o
+                0x00000f22                M_UART_u8_UARTRead
+ .text.M_UART_u8_UARTReadStr
+                0x00000f94      0x1a0 ./MCAL/UART/UART_Prog.o
+                0x00000f94                M_UART_u8_UARTReadStr
+ .text.M_TIMER1_void_Init
+                0x00001134       0x70 ./MCAL/TIMER1/TIMER1_prg.o
+                0x00001134                M_TIMER1_void_Init
+ .text.M_TIMER1_ICU_void_Init
+                0x000011a4       0x1c ./MCAL/TIMER1/TIMER1_prg.o
+                0x000011a4                M_TIMER1_ICU_void_Init
+ .text.M_TIMER1_ICU_void_setTrigger
+                0x000011c0       0x54 ./MCAL/TIMER1/TIMER1_prg.o
+                0x000011c0                M_TIMER1_ICU_void_setTrigger
+ .text.M_TIMER1_ICU_void_setCallBack
+                0x00001214       0x24 ./MCAL/TIMER1/TIMER1_prg.o
+                0x00001214                M_TIMER1_ICU_void_setCallBack
+ .text.M_TIMER1_ICU_u16_readInput
+                0x00001238       0x16 ./MCAL/TIMER1/TIMER1_prg.o
+                0x00001238                M_TIMER1_ICU_u16_readInput
+ .text.M_TIMER1_ICU_void_EnableInt
+                0x0000124e       0x1c ./MCAL/TIMER1/TIMER1_prg.o
+                0x0000124e                M_TIMER1_ICU_void_EnableInt
+ .text.M_TIMER1_ICU_void_DisableInt
+                0x0000126a       0x1c ./MCAL/TIMER1/TIMER1_prg.o
+                0x0000126a                M_TIMER1_ICU_void_DisableInt
+ .text.__vector_6
+                0x00001286       0x66 ./MCAL/TIMER1/TIMER1_prg.o
+                0x00001286                __vector_6
+ .text.M_TIMER0_void_Init
+                0x000012ec       0x46 ./MCAL/TIMER0/TIMER0_prg.o
+                0x000012ec                M_TIMER0_void_Init
+ .text.M_TIMER0_void_setTimeMS
+                0x00001332       0xf0 ./MCAL/TIMER0/TIMER0_prg.o
+                0x00001332                M_TIMER0_void_setTimeMS
+ .text.M_TIMER0_void_startTimer
+                0x00001422       0x2a ./MCAL/TIMER0/TIMER0_prg.o
+                0x00001422                M_TIMER0_void_startTimer
+ .text.M_TIMER0_void_stopTimer
+                0x0000144c       0x1c ./MCAL/TIMER0/TIMER0_prg.o
+                0x0000144c                M_TIMER0_void_stopTimer
+ .text.M_TIMER0_void_setCallBack
+                0x00001468       0x42 ./MCAL/TIMER0/TIMER0_prg.o
+                0x00001468                M_TIMER0_void_setCallBack
+ .text.M_TIMER0_void_EnableInt
+                0x000014aa       0x56 ./MCAL/TIMER0/TIMER0_prg.o
+                0x000014aa                M_TIMER0_void_EnableInt
+ .text.M_TIMER0_void_DisableInt
+                0x00001500       0x56 ./MCAL/TIMER0/TIMER0_prg.o
+                0x00001500                M_TIMER0_void_DisableInt
+ .text.M_TIMER0_void_setFastPWM
+                0x00001556       0x62 ./MCAL/TIMER0/TIMER0_prg.o
+                0x00001556                M_TIMER0_void_setFastPWM
+ .text.M_TIMER0_void_setPhaseCorrectPWM
+                0x000015b8       0x14 ./MCAL/TIMER0/TIMER0_prg.o
+                0x000015b8                M_TIMER0_void_setPhaseCorrectPWM
+ .text.__vector_11
+                0x000015cc       0xda ./MCAL/TIMER0/TIMER0_prg.o
+                0x000015cc                __vector_11
+ .text.__vector_10
+                0x000016a6       0xc6 ./MCAL/TIMER0/TIMER0_prg.o
+                0x000016a6                __vector_10
+ .text.M_GIE_void_Enable
+                0x0000176c       0x10 ./MCAL/GIE/GIE_prg.o
+                0x0000176c                M_GIE_void_Enable
+ .text.M_GIE_void_Diasble
+                0x0000177c       0x10 ./MCAL/GIE/GIE_prg.o
+                0x0000177c                M_GIE_void_Diasble
+ .text.M_EXTI_void_EnableInt
+                0x0000178c       0xf4 ./MCAL/EXTI/EXTI_prg.o
+                0x0000178c                M_EXTI_void_EnableInt
+ .text.M_EXTI_void_DisableInt
+                0x00001880       0x3c ./MCAL/EXTI/EXTI_prg.o
+                0x00001880                M_EXTI_void_DisableInt
+ .text.M_EXTI_void_setCallBackfn
+                0x000018bc       0x76 ./MCAL/EXTI/EXTI_prg.o
+                0x000018bc                M_EXTI_void_setCallBackfn
+ .text.__vector_1
+                0x00001932       0x66 ./MCAL/EXTI/EXTI_prg.o
+                0x00001932                __vector_1
+ .text.__vector_2
+                0x00001998       0x66 ./MCAL/EXTI/EXTI_prg.o
+                0x00001998                __vector_2
+ .text.__vector_3
+                0x000019fe       0x66 ./MCAL/EXTI/EXTI_prg.o
+                0x000019fe                __vector_3
+ .text.M_DIO_Void_SetPinDirection
+                0x00001a64      0x22c ./MCAL/DIO/DIO_Prog.o
+                0x00001a64                M_DIO_Void_SetPinDirection
+ .text.M_DIO_Void_SetPinValue
+                0x00001c90      0x22c ./MCAL/DIO/DIO_Prog.o
+                0x00001c90                M_DIO_Void_SetPinValue
+ .text.M_DIO_Void_TogPin
+                0x00001ebc      0x118 ./MCAL/DIO/DIO_Prog.o
+                0x00001ebc                M_DIO_Void_TogPin
+ .text.M_DIO_U8_GetPinValue
+                0x00001fd4      0x10e ./MCAL/DIO/DIO_Prog.o
+                0x00001fd4                M_DIO_U8_GetPinValue
+ .text.M_ADC_void_Init
+                0x000020e2       0xa4 ./MCAL/ADC/ADC_prg.o
+                0x000020e2                M_ADC_void_Init
+ .text.M_ADC_u16_adcRead
+                0x00002186       0x5e ./MCAL/ADC/ADC_prg.o
+                0x00002186                M_ADC_u16_adcRead
+ .text.H_Ultrasonic_void_Init
+                0x000021e4       0x32 ./HAL/Ultrasonic/Ultrasonic_Prog.o
+                0x000021e4                H_Ultrasonic_void_Init
+ .text.H_Ultrasonic_u16_Read
+                0x00002216      0x280 ./HAL/Ultrasonic/Ultrasonic_Prog.o
+                0x00002216                H_Ultrasonic_u16_Read
+ .text.H_Ultrasonic_void_ReStart
+                0x00002496       0x18 ./HAL/Ultrasonic/Ultrasonic_Prog.o
+                0x00002496                H_Ultrasonic_void_ReStart
+ .text.A_ICU_HW
+                0x000024ae       0x4c ./HAL/Ultrasonic/Ultrasonic_Prog.o
+                0x000024ae                A_ICU_HW
+ .text.H_RELAY_Void_RELAYInit
+                0x000024fa       0x4c ./HAL/RELAY/RELAY_Prog.o
+                0x000024fa                H_RELAY_Void_RELAYInit
+ .text.H_RELAY_Void_RELAYOn
+                0x00002546       0x4c ./HAL/RELAY/RELAY_Prog.o
+                0x00002546                H_RELAY_Void_RELAYOn
+ .text.H_RELAY_Void_RELAYOff
+                0x00002592       0x4c ./HAL/RELAY/RELAY_Prog.o
+                0x00002592                H_RELAY_Void_RELAYOff
+ .text.H_RELAY_Void_RELAYTog
+                0x000025de       0x48 ./HAL/RELAY/RELAY_Prog.o
+                0x000025de                H_RELAY_Void_RELAYTog
+ .text.H_LED_Void_LEDInit
+                0x00002626       0x5c ./HAL/LED/LED_Prog.o
+                0x00002626                H_LED_Void_LEDInit
+ .text.H_LED_Void_LEDOn
+                0x00002682       0x5c ./HAL/LED/LED_Prog.o
+                0x00002682                H_LED_Void_LEDOn
+ .text.H_LED_Void_LEDOff
+                0x000026de       0x5c ./HAL/LED/LED_Prog.o
+                0x000026de                H_LED_Void_LEDOff
+ .text.H_LED_Void_LEDTog
+                0x0000273a       0x56 ./HAL/LED/LED_Prog.o
+                0x0000273a                H_LED_Void_LEDTog
+ .text.H_LED_Void_LEDBlink
+                0x00002790      0x334 ./HAL/LED/LED_Prog.o
+                0x00002790                H_LED_Void_LEDBlink
+ .text.H_LCD_void_Init
+                0x00002ac4      0x35a ./HAL/LCD/LCD_prg.o
+                0x00002ac4                H_LCD_void_Init
+ .text.H_LCD_void_sendData
+                0x00002e1e       0x22 ./HAL/LCD/LCD_prg.o
+                0x00002e1e                H_LCD_void_sendData
+ .text.H_LCD_void_sendCommand
+                0x00002e40       0x22 ./HAL/LCD/LCD_prg.o
+                0x00002e40                H_LCD_void_sendCommand
+ .text.H_LCD_void_sendString
+                0x00002e62       0x6c ./HAL/LCD/LCD_prg.o
+                0x00002e62                H_LCD_void_sendString
+ .text.H_LCD_void_sendIntNum
+                0x00002ece      0x132 ./HAL/LCD/LCD_prg.o
+                0x00002ece                H_LCD_void_sendIntNum
+ .text.H_LCD_void_ClearDisplay
+                0x00003000       0x14 ./HAL/LCD/LCD_prg.o
+                0x00003000                H_LCD_void_ClearDisplay
+ .text.H_LCD_void_WriteNlatch
+                0x00003014      0x472 ./HAL/LCD/LCD_prg.o
+ .text.H_LCD_void_gotoXY
+                0x00003486       0x3c ./HAL/LCD/LCD_prg.o
+                0x00003486                H_LCD_void_gotoXY
+ .text.H_BLUETOOTH_Void_BLUETOOTHInit
+                0x000034c2       0x12 ./HAL/BLUETOOTH/BLUETOOTH_PROG.o
+                0x000034c2                H_BLUETOOTH_Void_BLUETOOTHInit
+ .text.H_BLUETOOTH_u8_BLUETOOTHReadStr
+                0x000034d4       0x20 ./HAL/BLUETOOTH/BLUETOOTH_PROG.o
+                0x000034d4                H_BLUETOOTH_u8_BLUETOOTHReadStr
+ .text.main     0x000034f4      0x434 ./APP/main.o
+                0x000034f4                main
+ .text.libgcc   0x00003928       0x3e f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+                0x00003928                __mulsi3
+ .text.libgcc   0x00003966       0x18 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodqi4.o)
+                0x00003966                __udivmodqi4
+ .text.libgcc   0x0000397e       0x26 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+                0x0000397e                __divmodhi4
+                0x0000397e                _div
+ .text.libgcc   0x000039a4       0x36 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+                0x000039a4                __divmodsi4
+ .text.libgcc   0x000039da        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x000039da        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x000039da        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x000039da       0x28 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+                0x000039da                __udivmodhi4
+ .text.libgcc   0x00003a02       0x44 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+                0x00003a02                __udivmodsi4
+ .text.libgcc   0x00003a46       0x38 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+                0x00003a46                __prologue_saves__
+ .text.libgcc   0x00003a7e       0x36 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+                0x00003a7e                __epilogue_restores__
+ .text.avr-libc.fplib
+                0x00003ab4       0x26 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ceil.o)
+                0x00003ab4                ceil
+ .text.avr-libc.fplib
+                0x00003ada       0x36 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_mintl.o)
+                0x00003ada                __fp_mintl
+ .text.avr-libc.fplib
+                0x00003b10       0x1c f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_mpack.o)
+                0x00003b14                __fp_mpack_finite
+                0x00003b10                __fp_mpack
+ .text.avr-libc.fplib
+                0x00003b2c       0x2e f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_trunc.o)
+                0x00003b2c                __fp_trunc
+ .text.avr-libc.fplib
+                0x00003b5a        0xe f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_zero.o)
+                0x00003b5a                __fp_zero
+                0x00003b5c                __fp_szero
+ .text.avr-libc.fplib
+                0x00003b68       0x44 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_split3.o)
+                0x00003b68                __fp_split3
+                0x00003b78                __fp_splitA
+                0x00003bac                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00003bac        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                0x00003bac                exit
+                0x00003bac                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00003bac        0x4 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00003bb0                _etext = .
+
+.data           0x00800060      0x12a load address 0x00003bb0
+                0x00800060                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800060        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ .data          0x00800060        0x0 ./MCAL/UART/UART_Prog.o
+ .data          0x00800060        0x0 ./MCAL/TIMER1/TIMER1_prg.o
+ .data          0x00800060        0x0 ./MCAL/TIMER0/TIMER0_prg.o
+ .data          0x00800060        0x0 ./MCAL/GIE/GIE_prg.o
+ .data          0x00800060        0x0 ./MCAL/EXTI/EXTI_prg.o
+ .data          0x00800060        0x0 ./MCAL/DIO/DIO_Prog.o
+ .data          0x00800060        0x0 ./MCAL/ADC/ADC_prg.o
+ .data          0x00800060        0x0 ./HAL/Ultrasonic/Ultrasonic_Prog.o
+ .data          0x00800060        0x0 ./HAL/RELAY/RELAY_Prog.o
+ .data          0x00800060        0x0 ./HAL/LED/LED_Prog.o
+ .data          0x00800060        0x0 ./HAL/LCD/LCD_prg.o
+ .data          0x00800060        0x0 ./HAL/BLUETOOTH/BLUETOOTH_PROG.o
+ .data          0x00800060       0x17 ./APP/main.o
+ .data          0x00800077        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+ .data          0x00800077        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodqi4.o)
+ .data          0x00800077        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+ .data          0x00800077        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+ .data          0x00800077        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .data          0x00800077        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .data          0x00800077        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00800077        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .data          0x00800077        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .data          0x00800077        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .data          0x00800077        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .data          0x00800077        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .data          0x00800077        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .data          0x00800077        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .data          0x00800077        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .data          0x00800077        0x8 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+                0x00800077                __thenan_sf
+ .data          0x0080007f        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .data          0x0080007f        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .data          0x0080007f        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x0080007f        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .data          0x0080007f        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .data          0x0080007f        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .data          0x0080007f        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .data          0x0080007f        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .data          0x0080007f        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .data          0x0080007f      0x100 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+                0x0080007f                __clz_tab
+ .data          0x0080017f        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ceil.o)
+ .data          0x0080017f        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_mintl.o)
+ .data          0x0080017f        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_mpack.o)
+ .data          0x0080017f        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_trunc.o)
+ .data          0x0080017f        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_zero.o)
+ .data          0x0080017f        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_split3.o)
+ *(.data*)
+ *(.rodata)
+ *(.rodata*)
+ .rodata.C.0.1378
+                0x0080017f        0xa ./MCAL/TIMER0/TIMER0_prg.o
+ *(.gnu.linkonce.d*)
+                0x0080018a                . = ALIGN (0x2)
+ *fill*         0x00800189        0x1 00
+                0x0080018a                _edata = .
+                0x0080018a                PROVIDE (__data_end, .)
+
+.bss            0x0080018a       0x22
+                0x0080018a                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x0080018a        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ .bss           0x0080018a        0x0 ./MCAL/UART/UART_Prog.o
+ .bss           0x0080018a        0x0 ./MCAL/TIMER1/TIMER1_prg.o
+ .bss           0x0080018a        0x0 ./MCAL/TIMER0/TIMER0_prg.o
+ .bss           0x0080018a        0x0 ./MCAL/GIE/GIE_prg.o
+ .bss           0x0080018a        0x0 ./MCAL/EXTI/EXTI_prg.o
+ .bss           0x0080018a        0x0 ./MCAL/DIO/DIO_Prog.o
+ .bss           0x0080018a        0x0 ./MCAL/ADC/ADC_prg.o
+ .bss           0x0080018a        0x0 ./HAL/Ultrasonic/Ultrasonic_Prog.o
+ .bss           0x0080018a        0x0 ./HAL/RELAY/RELAY_Prog.o
+ .bss           0x0080018a        0x0 ./HAL/LED/LED_Prog.o
+ .bss           0x0080018a        0x0 ./HAL/LCD/LCD_prg.o
+ .bss           0x0080018a        0x0 ./HAL/BLUETOOTH/BLUETOOTH_PROG.o
+ .bss           0x0080018a        0x0 ./APP/main.o
+ .bss           0x0080018a        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+ .bss           0x0080018a        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodqi4.o)
+ .bss           0x0080018a        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+ .bss           0x0080018a        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+ .bss           0x0080018a        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .bss           0x0080018a        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .bss           0x0080018a        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x0080018a        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .bss           0x0080018a        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .bss           0x0080018a        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .bss           0x0080018a        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .bss           0x0080018a        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .bss           0x0080018a        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .bss           0x0080018a        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .bss           0x0080018a        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .bss           0x0080018a        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .bss           0x0080018a        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .bss           0x0080018a        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .bss           0x0080018a        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x0080018a        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .bss           0x0080018a        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .bss           0x0080018a        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .bss           0x0080018a        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .bss           0x0080018a        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .bss           0x0080018a        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .bss           0x0080018a        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+ .bss           0x0080018a        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ceil.o)
+ .bss           0x0080018a        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_mintl.o)
+ .bss           0x0080018a        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_mpack.o)
+ .bss           0x0080018a        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_trunc.o)
+ .bss           0x0080018a        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_zero.o)
+ .bss           0x0080018a        0x0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fp_split3.o)
+ *(.bss*)
+ .bss.g_ICU_CallBackPtr
+                0x0080018a        0x2 ./MCAL/TIMER1/TIMER1_prg.o
+                0x0080018a                g_ICU_CallBackPtr
+ .bss.g_CallBackArr
+                0x0080018c        0x4 ./MCAL/TIMER0/TIMER0_prg.o
+                0x0080018c                g_CallBackArr
+ .bss.NumOFOverflows
+                0x00800190        0x4 ./MCAL/TIMER0/TIMER0_prg.o
+ .bss.NumOFRemainingTicks
+                0x00800194        0x1 ./MCAL/TIMER0/TIMER0_prg.o
+ .bss.NumOFCmpMatches
+                0x00800195        0x4 ./MCAL/TIMER0/TIMER0_prg.o
+ .bss.OVFcounter.1465
+                0x00800199        0x4 ./MCAL/TIMER0/TIMER0_prg.o
+ .bss.CmpMatchcounter.1487
+                0x0080019d        0x4 ./MCAL/TIMER0/TIMER0_prg.o
+ .bss.EXTI_CallBackArr
+                0x008001a1        0x6 ./MCAL/EXTI/EXTI_prg.o
+                0x008001a1                EXTI_CallBackArr
+ .bss.g_Reading1
+                0x008001a7        0x2 ./HAL/Ultrasonic/Ultrasonic_Prog.o
+ .bss.g_Reading2
+                0x008001a9        0x2 ./HAL/Ultrasonic/Ultrasonic_Prog.o
+ .bss.g_StateCounter
+                0x008001ab        0x1 ./HAL/Ultrasonic/Ultrasonic_Prog.o
+ *(COMMON)
+                0x008001ac                PROVIDE (__bss_end, .)
+                0x00003bb0                __data_load_start = LOADADDR (.data)
+                0x00003cda                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x008001ac        0x0
+                0x008001ac                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x008001ac                PROVIDE (__noinit_end, .)
+                0x008001ac                _end = .
+                0x008001ac                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab           0x00000000     0x3960
+ *(.stab)
+ .stab          0x00000000      0x684 ./MCAL/UART/UART_Prog.o
+ .stab          0x00000684      0x378 ./MCAL/TIMER1/TIMER1_prg.o
+                                0x570 (size before relaxing)
+ .stab          0x000009fc      0x5b8 ./MCAL/TIMER0/TIMER0_prg.o
+                                0x7ec (size before relaxing)
+ .stab          0x00000fb4      0x144 ./MCAL/GIE/GIE_prg.o
+                                0x1bc (size before relaxing)
+ .stab          0x000010f8      0x330 ./MCAL/EXTI/EXTI_prg.o
+                                0x564 (size before relaxing)
+ .stab          0x00001428      0x498 ./MCAL/DIO/DIO_Prog.o
+                                0x510 (size before relaxing)
+ .stab          0x000018c0      0x24c ./MCAL/ADC/ADC_prg.o
+                                0x2c4 (size before relaxing)
+ .stab          0x00001b0c      0x444 ./HAL/Ultrasonic/Ultrasonic_Prog.o
+                                0x648 (size before relaxing)
+ .stab          0x00001f50      0x264 ./HAL/RELAY/RELAY_Prog.o
+                                0x2dc (size before relaxing)
+ .stab          0x000021b4      0x54c ./HAL/LED/LED_Prog.o
+                                0x75c (size before relaxing)
+ .stab          0x00002700      0xa98 ./HAL/LCD/LCD_prg.o
+                                0xca8 (size before relaxing)
+ .stab          0x00003198      0x168 ./HAL/BLUETOOTH/BLUETOOTH_PROG.o
+                                0x1e0 (size before relaxing)
+ .stab          0x00003300      0x660 ./APP/main.o
+                                0x864 (size before relaxing)
+
+.stabstr        0x00000000     0x1a8c
+ *(.stabstr)
+ .stabstr       0x00000000     0x1a8c ./MCAL/UART/UART_Prog.o
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x1a0
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_aranges
+                0x00000020       0x20 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_aranges
+                0x00000040       0x20 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_aranges
+                0x00000060       0x20 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_aranges
+                0x00000080       0x20 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_aranges
+                0x000000a0       0x20 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_aranges
+                0x000000c0       0x20 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_aranges
+                0x000000e0       0x20 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_aranges
+                0x00000100       0x20 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_aranges
+                0x00000120       0x20 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_aranges
+                0x00000140       0x20 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_aranges
+                0x00000160       0x20 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_aranges
+                0x00000180       0x20 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_pubnames
+                0x00000000      0x1f2
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000       0x23 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_pubnames
+                0x00000023       0x2c f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_pubnames
+                0x0000004f       0x1f f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_pubnames
+                0x0000006e       0x1f f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_pubnames
+                0x0000008d       0x1e f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_pubnames
+                0x000000ab       0x1e f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_pubnames
+                0x000000c9       0x1e f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_pubnames
+                0x000000e7       0x20 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_pubnames
+                0x00000107       0x22 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_pubnames
+                0x00000129       0x24 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_pubnames
+                0x0000014d       0x1f f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_pubnames
+                0x0000016c       0x1f f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_pubnames
+                0x0000018b       0x21 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_pubnames
+                0x000001ac       0x26 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_pubnames
+                0x000001d2       0x20 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+
+.debug_info     0x00000000     0x240b
+ *(.debug_info)
+ .debug_info    0x00000000       0xb1 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_info    0x000000b1      0x47a f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_info    0x0000052b      0x485 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_info    0x000009b0      0x3fc f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_info    0x00000dac      0x27f f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_info    0x0000102b      0x27f f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_info    0x000012aa      0x27f f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_info    0x00001529      0x2b0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_info    0x000017d9      0x12c f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_info    0x00001905      0x206 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_info    0x00001b0b      0x117 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_info    0x00001c22      0x2df f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_info    0x00001f01      0x251 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_info    0x00002152      0x210 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_info    0x00002362       0xa9 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev   0x00000000     0x1386
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000       0x5d f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_abbrev  0x0000005d      0x1ea f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_abbrev  0x00000247      0x21b f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_abbrev  0x00000462      0x216 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_abbrev  0x00000678      0x15a f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_abbrev  0x000007d2      0x15a f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_abbrev  0x0000092c      0x15a f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_abbrev  0x00000a86      0x17f f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_abbrev  0x00000c05       0xad f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_abbrev  0x00000cb2      0x157 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_abbrev  0x00000e09       0xc4 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_abbrev  0x00000ecd      0x1c0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_abbrev  0x0000108d      0x154 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_abbrev  0x000011e1      0x13b f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_abbrev  0x0000131c       0x6a f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+
+.debug_line     0x00000000     0x11d6
+ *(.debug_line)
+ .debug_line    0x00000000       0xa7 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_line    0x000000a7      0x2af f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_line    0x00000356      0x239 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_line    0x0000058f      0x1d5 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_line    0x00000764       0xd3 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_line    0x00000837       0xd3 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_line    0x0000090a       0xd3 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_line    0x000009dd      0x109 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_line    0x00000ae6       0x90 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_line    0x00000b76      0x133 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_line    0x00000ca9       0xa5 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_line    0x00000d4e      0x18a f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_line    0x00000ed8      0x14b f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_line    0x00001023      0x137 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_line    0x0000115a       0x7c f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+
+.debug_frame    0x00000000      0x1c0
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x20 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_frame   0x00000020       0x40 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_frame   0x00000060       0x20 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_frame   0x00000080       0x20 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_frame   0x000000a0       0x20 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_frame   0x000000c0       0x20 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_frame   0x000000e0       0x20 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_frame   0x00000100       0x20 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_frame   0x00000120       0x20 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_frame   0x00000140       0x20 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_frame   0x00000160       0x20 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_frame   0x00000180       0x20 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_frame   0x000001a0       0x20 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_str      0x00000000      0x2f6
+ *(.debug_str)
+ .debug_str     0x00000000       0xbf f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                                 0xfe (size before relaxing)
+ .debug_str     0x000000bf      0x14d f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                                0x206 (size before relaxing)
+ .debug_str     0x0000020c       0x27 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                                0x1bf (size before relaxing)
+ .debug_str     0x00000233       0x35 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+                                0x1c8 (size before relaxing)
+ .debug_str     0x00000268        0x8 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x00000270        0x8 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x00000278        0x8 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x00000280        0xa f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                                0x19e (size before relaxing)
+ .debug_str     0x00000000      0x103 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_str     0x0000028a       0x21 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+                                0x177 (size before relaxing)
+ .debug_str     0x000002ab       0x20 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+                                0x111 (size before relaxing)
+ .debug_str     0x000002cb       0x10 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                                0x19d (size before relaxing)
+ .debug_str     0x000002db        0xb f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                                0x17f (size before relaxing)
+ .debug_str     0x000002e6       0x10 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                                0x163 (size before relaxing)
+ .debug_str     0x00000000       0xf4 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+
+.debug_loc      0x00000000      0x96e
+ *(.debug_loc)
+ .debug_loc     0x00000000       0x34 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_loc     0x00000034      0x32a f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_loc     0x0000035e      0x104 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_loc     0x00000462       0xc0 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_loc     0x00000522       0x3c f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_loc     0x0000055e       0x3c f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_loc     0x0000059a       0x3c f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_loc     0x000005d6       0x7e f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_loc     0x00000654       0x4c f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_loc     0x000006a0       0x94 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_loc     0x00000734      0x13e f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_loc     0x00000872       0xac f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_loc     0x0000091e       0x50 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(Cruise_Control_System.elf elf32-avr)
+LOAD linker stubs
+
+.debug_ranges   0x00000000       0x50
+ .debug_ranges  0x00000000       0x50 f:/nti embdded/avr c/b_nti_group_tools/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
